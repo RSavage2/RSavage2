@@ -1,5 +1,7 @@
 <h1 align="center">Rashaud Savage (RSavage2) <img src="https://media3.giphy.com/media/JtAHVmIUzjggFI66Oy/giphy.gif?cid=ecf05e47q80mnz037jd61egs8zeebq4nlmzp95pwvpmu8231&rid=giphy.gif&ct=s" width="35"></h1>
 <p align="center">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsavage2&label=Profile%20views&color=0e75b6&style=flat" alt="rsavage2" /> </p>
   
 </p>
 
@@ -34,11 +36,12 @@ He likes to **create and contribute** to open source projects. In his free time,
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rsavage2&theme=algolia&hide_border=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=rsavage2&theme=algolia&hide_border=false) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsavage2&label=Profile%20views&color=0e75b6&style=flat" alt="rsavage2" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsavage2&show_icons=true&locale=en&layout=compact" alt="rsavage2" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsavage2" alt="rsavage2" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsavage2&show_icons=true&locale=en" alt="rsavage2"/></p>
+
 
 <!--- <p align="left"> <a href="https://twitter.com/rushsavage0" target="blank"><img src="https://img.shields.io/twitter/follow/rushsavage0?logo=twitter&style=for-the-badge" alt="rushsavage0" /></a> </p> --->
 
