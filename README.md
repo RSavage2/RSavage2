@@ -35,7 +35,7 @@ He likes to **create and contribute** to open source projects. In his free time,
 **My personal website** : TBD
 
 ---
-
+## Latest Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rsavage2&theme=algolia&hide_border=false) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsavage2&show_icons=true&locale=en&layout=compact" alt="rsavage2" /></p>
