@@ -5,9 +5,11 @@
   
 </p>
 
-Rashaud is a **technical product manager, developer, and entreprenuer** based in the U.S.&nbsp;
-His passions include **open-source, coding, Machine learning, A.I., and VR/AR/MR technologies**.
-He likes to **create and contribute** to open source projects. In his free time, His passions include **tackling Leetcode, learning new coding languages, reading up on new and emerging technologies and building side projects located here on github** these are just a fraction of the things I like to do.
+Rashaud is a technical product manager, developer, and entrepreneur based in the U.S.
+
+His passions include open-source, coding, machine learning, AI, AI agents and assistants, and VR/AR/MR technologies. He enjoys creating and contributing to open-source projects.
+
+In his free time, he likes tackling LeetCode, learning new programming languages, reading up on emerging technologies, and building side projects — check out his work on GitHub. These are just a fraction of the things he enjoys.
 
 ## Languages and tools im focusing on </>
   
